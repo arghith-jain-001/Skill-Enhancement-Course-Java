@@ -9,7 +9,7 @@ class Car {
 
     Car(String name, String color){
         this.name = name;
-        this.color = color;
+        this.colour = colour;
         this.display();
     }
      void display() {
