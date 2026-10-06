@@ -5,14 +5,14 @@ public class Cars {
 }
 
 class Car {
-    String name, color;
+    String name, colour;
 
-    Car(String name, String color){
+    Car(String name, String colour){
         this.name = name;
         this.colour = colour;
         this.display();
     }
      void display() {
-        IO.println("Name: " + name + " | Color: " + color);
+        IO.println("Name: " + name + " | Colour: " + colour);
     }
 }
