@@ -2,8 +2,9 @@
 public class Objects {
     void main(String[] args) {
         Student student1 = new Student("Arghith", 20);
-
         Student student2 = new Student("Alagu", 21);
+        student1.display();
+        student2.display();
     }
 }
 
