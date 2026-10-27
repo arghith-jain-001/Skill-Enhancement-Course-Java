@@ -1,4 +1,3 @@
-import java.util.*;
 
     void main() {
         Car c1= new Car("BMW", "730d", "Sedan");

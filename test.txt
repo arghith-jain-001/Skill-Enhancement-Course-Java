@@ -1,0 +1,17 @@
+Create a person class with a method display name
+Create a student class that inherits from person
+And have a method display marks.
+Display the students name and marks
+
+
+Create a person class with a method display person, 
+and employ class that inherit from person with a method display employ,
+and a manager class that inherits from employ with a method display manager
+
+
+Create an employ class with a method displayCompany.
+create two child classes teacher and developer.
+teacher should have teach method
+developer should have write code method
+create obj of both child classes, for inherited and individual methods
+

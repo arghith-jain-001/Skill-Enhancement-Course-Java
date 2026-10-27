@@ -1,4 +1,3 @@
-import java.util.*;
 
     void main() {
    Employee e1= new Employee("Arun", "1,00,000", "Junior Analist");
