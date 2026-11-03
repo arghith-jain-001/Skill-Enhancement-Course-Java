@@ -1,17 +1,16 @@
-Create a person class with a method display name
-Create a student class that inherits from person
-And have a method display marks.
-Display the students name and marks
+Create an abstract class Shape with an abstract method calculateArea()
+A normal method display thats prints the calculated area
+create Circle and Rectangle classes Circle r=7, Rectangle l=10,b=5
 
 
-Create a person class with a method display person, 
-and employ class that inherit from person with a method display employ,
-and a manager class that inherits from employ with a method display manager
+
+Create an abstract class employ with abstract method calculateSalary()
+a normal method companyName thats prints "ABC Technologies"
+create two child class first a fullTimeEmploy with salary 40k
+and partTimeEmploy with salary 15k
 
 
-Create an employ class with a method displayCompany.
-create two child classes teacher and developer.
-teacher should have teach method
-developer should have write code method
-create obj of both child classes, for inherited and individual methods
-
+Create an abstract class Bank an abstract method getInterestRate()
+a normal method display message that prints "Welcome to the Bank"
+create two child class SBI and HDFC
+SBI interestRate = 6.5% | HDFC = 7%
