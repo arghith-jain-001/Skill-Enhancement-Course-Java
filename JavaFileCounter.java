@@ -12,6 +12,7 @@ public class JavaFileCounter {
         File root = startDir.toFile();
         int count = countJavaFiles(root);
         System.out.println("Total .java files found: " + count);
+	IO.readln("Enter to exit...");
     }
 
     // Recursively count .java files
